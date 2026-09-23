@@ -4,16 +4,16 @@
 
 I build mobile apps for practical everyday needs, with a focus on Hindi-first interfaces, offline use, and clear workflows. This is my independent development portfolio; I am interested in Flutter/mobile development roles and collaborations.
 
-**Explore the code:** [Mobile app portfolio](https://github.com/SCHANDAN996/android-apps) · **Contact:** [Email](mailto:all.chandansingh@gmail.com)
+**Published on Google Play:** [Tube algo developer page](https://play.google.com/store/apps/developer?id=Tube+algo) · **Explore the code:** [Mobile app portfolio](https://github.com/SCHANDAN996/android-apps) · **Contact:** [Email](mailto:all.chandansingh@gmail.com)
 
 ## Selected work
 
-| Project | What to look at | Source |
+| Project | What to look at | Source and Google Play |
 | --- | --- | --- |
-| **Jameen Napi** | Land-area and length converters, plot calculations, Hindi-oriented UI and local preferences | [Flutter app](https://github.com/SCHANDAN996/android-apps/tree/main/Jameen%20Napi) |
-| **Vidhivat** | Guided puja flows, a separate Dart panchang engine, bundled content, localization and tests | [Flutter app and engine](https://github.com/SCHANDAN996/android-apps/tree/main/14%20Vidhivat) |
-| **Mistri Calculator** | Construction material estimators, unit conversion and local rate-based estimates | [Flutter app](https://github.com/SCHANDAN996/android-apps/tree/main/01%20Mistri%20Calculator/mistri_calculator) |
-| **Pro Kisan** | Agriculture and dairy workflows, local database, state management and service modules | [Flutter app](https://github.com/SCHANDAN996/android-apps/tree/main/03%20Pro%20Kisan/pro%20kisan) |
+| **Jameen Napi** | Land-area and length converters, plot calculations, Hindi-oriented UI and local preferences | [Source](https://github.com/SCHANDAN996/android-apps/tree/main/Jameen%20Napi) · [Play publisher](https://play.google.com/store/apps/developer?id=Tube+algo) |
+| **Vidhivat** | Guided puja flows, a separate Dart panchang engine, bundled content, localization and tests | [Source](https://github.com/SCHANDAN996/android-apps/tree/main/14%20Vidhivat) · [Google Play](https://play.google.com/store/apps/details?id=com.vidhivat) |
+| **Mistri Calculator** | Construction material estimators, unit conversion and local rate-based estimates | [Source](https://github.com/SCHANDAN996/android-apps/tree/main/01%20Mistri%20Calculator/mistri_calculator) · [Google Play](https://play.google.com/store/apps/details?id=com.mistricalculator.mistri_calculator) |
+| **Pro Kisan** | Agriculture and dairy workflows, local database, state management and service modules | [Source](https://github.com/SCHANDAN996/android-apps/tree/main/03%20Pro%20Kisan/pro%20kisan) · [Google Play](https://play.google.com/store/apps/details?id=com.prokisan.app) |
 
 ## What I work with
 
@@ -26,4 +26,4 @@ I also explore Python and geospatial tools. My current portfolio focus is mobile
 **Looking for:** Flutter developer opportunities, mobile app collaborations and code reviews.  
 **Email:** [all.chandansingh@gmail.com](mailto:all.chandansingh@gmail.com)
 
-> App release status, screenshots and store URLs should be checked on each project. A repository containing source code does not by itself establish that a particular app is published.
+Published titles were checked against Google Play. Jameen Napi also appears in the owner's Play Store screenshot; its exact listing URL remains to be added.
