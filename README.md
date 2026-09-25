@@ -1,29 +1,26 @@
 # Chandan Singh
 
-### Flutter & Android app developer · Dart · India
+### Android App Creator · AI-assisted Flutter development · Mirzapur, India
 
-I build mobile apps for practical everyday needs, with a focus on Hindi-first interfaces, offline use, and clear workflows. This is my independent development portfolio; I am interested in Flutter/mobile development roles and collaborations.
+I turn practical app ideas into Android applications using an AI-assisted Flutter workflow. Since November 2024, I have planned screens and features, reviewed app behavior, and published five apps on Google Play. This profile is a portfolio of the work and source I can show.
 
-**Published on Google Play:** [Tube algo developer page](https://play.google.com/store/apps/developer?id=Tube+algo) · **Explore the code:** [Mobile app portfolio](https://github.com/SCHANDAN996/android-apps) · **Contact:** [Email](mailto:all.chandansingh@gmail.com)
+**See the apps:** [Tube algo on Google Play](https://play.google.com/store/apps/developer?id=Tube+algo) · **Browse projects:** [Android app portfolio](https://github.com/SCHANDAN996/android-apps) · **Connect:** [LinkedIn](https://www.linkedin.com/in/chandan-singh-4b3a05403/)
 
-## Selected work
+## Published apps
 
-| Project | What to look at | Source and Google Play |
+| App | What it does | Links |
 | --- | --- | --- |
-| **Jameen Napi** | Land-area and length converters, plot calculations, Hindi-oriented UI and local preferences | [Source](https://github.com/SCHANDAN996/android-apps/tree/main/Jameen%20Napi) · [Google Play](https://play.google.com/store/apps/details?id=com.chandansingh.kisan_calculator) |
-| **Vidhivat** | Guided puja flows, a separate Dart panchang engine, bundled content, localization and tests | [Source](https://github.com/SCHANDAN996/android-apps/tree/main/14%20Vidhivat) · [Google Play](https://play.google.com/store/apps/details?id=com.vidhivat) |
-| **Mistri Calculator** | Construction material estimators, unit conversion and local rate-based estimates | [Source](https://github.com/SCHANDAN996/android-apps/tree/main/01%20Mistri%20Calculator/mistri_calculator) · [Google Play](https://play.google.com/store/apps/details?id=com.mistricalculator.mistri_calculator) |
-| **Pro Kisan** | Agriculture and dairy workflows, local database, state management and service modules | [Source](https://github.com/SCHANDAN996/android-apps/tree/main/03%20Pro%20Kisan/pro%20kisan) · [Google Play](https://play.google.com/store/apps/details?id=com.prokisan.app) |
+| **Vidhivat** | Puja guidance and panchang | [Source](https://github.com/SCHANDAN996/android-apps/tree/main/14%20Vidhivat) · [Google Play](https://play.google.com/store/apps/details?id=com.vidhivat) |
+| **Pro Kisan** | Farm and milk diary tools | [Source](https://github.com/SCHANDAN996/android-apps/tree/main/03%20Pro%20Kisan/pro%20kisan) · [Google Play](https://play.google.com/store/apps/details?id=com.prokisan.app) |
+| **Jameen Napi** | Land and plot calculators | [Source](https://github.com/SCHANDAN996/android-apps/tree/main/Jameen%20Napi) · [Google Play](https://play.google.com/store/apps/details?id=com.chandansingh.kisan_calculator) |
+| **Mistri Calculator** | Construction material estimates | [Source](https://github.com/SCHANDAN996/android-apps/tree/main/01%20Mistri%20Calculator/mistri_calculator) · [Google Play](https://play.google.com/store/apps/details?id=com.mistricalculator.mistri_calculator) |
+| **Qrova** | QR scanner and generator | [Google Play](https://play.google.com/store/apps/details?id=com.qrova.app) |
 
-## What I work with
+Qrova's source is not in this repository. The [portfolio README](https://github.com/SCHANDAN996/android-apps#readme) explains which projects have source here and which are prototypes or work in progress.
 
-**Mobile:** Flutter, Dart, Android project setup, responsive UI, app localization  
-**Product features:** offline storage, calculator logic, sharing, device location where applicable  
-**Engineering:** Git/GitHub, package integration, code organization, Flutter tests
+## How I work
 
-I also explore Python and geospatial tools. My current portfolio focus is mobile application development.
+I discuss the app's purpose and screens, build with AI-assisted tools, review the result, and prepare the Android release. Projects in the portfolio include Flutter and Dart UI, local storage, calculator logic, and app configuration. Individual project READMEs describe their actual state and setup.
 
-**Looking for:** Flutter developer opportunities, mobile app collaborations and code reviews.  
-**Email:** [all.chandansingh@gmail.com](mailto:all.chandansingh@gmail.com)
-
-Published titles were checked against Google Play. Jameen Napi's Google Play URL was supplied in the owner's sharing screenshot.
+**Available for:** Remote Android app projects and mobile app collaborations.  
+**Contact:** [LinkedIn](https://www.linkedin.com/in/chandan-singh-4b3a05403/) · [Email](mailto:all.chandansingh@gmail.com)
