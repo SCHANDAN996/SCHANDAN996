@@ -23,4 +23,4 @@ Qrova's source is not in this repository. The [portfolio README](https://github.
 I discuss the app's purpose and screens, build with AI-assisted tools, review the result, and prepare the Android release. Projects in the portfolio include Flutter and Dart UI, local storage, calculator logic, and app configuration. Individual project READMEs describe their actual state and setup.
 
 **Available for:** Remote Android app projects and mobile app collaborations.  
-**Contact:** [LinkedIn](https://www.linkedin.com/in/chandan-singh-4b3a05403/) · [Email](mailto:all.chandansingh@gmail.com)
+**Hire me:** [Android app creation on Fiverr](https://www.fiverr.com/schandan995/create-an-android-mobile-app-using-ai-assisted-development) · **Connect:** [LinkedIn](https://www.linkedin.com/in/chandan-singh-4b3a05403/) · [Email](mailto:all.chandansingh@gmail.com)
